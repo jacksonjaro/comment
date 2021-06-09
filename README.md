@@ -13,8 +13,8 @@ That would give the following on the clipboard that you could paste into a text 
 You can edit the variable "TEXT" to include you own blocks of feedback with your own handles. So if you give feedback under the umbrella of "good introduction for audience." Basically when you edit text it would have to have this formatting
 
 	TEXT{
-	"handle1": """ text feedback1 """
-	"handle2": """ text feedback2 """
+	"handle1": """ text feedback1 """,
+	"handle2": """ text feedback2 """,
 	"handle3": """ text feedback3 """
 	}
 	
